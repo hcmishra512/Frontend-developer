@@ -1,0 +1,9 @@
+.child {
+  display: flex;
+  flex-direction: row;
+}
+.child_span {
+  margin-left: auto;
+  margin-top: 15px;
+  cursor: pointer;
+}

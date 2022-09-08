@@ -1,0 +1,16 @@
+.child_sub_child > hr {
+  width: 80%;
+  margin: auto;
+}
+
+.child_sub_child select {
+  width: 15%;
+  margin: auto;
+  color: #fff;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  background: #202020;
+  border: none;
+  padding: 10px;
+}

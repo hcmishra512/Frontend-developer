@@ -1,0 +1,15 @@
+.button {
+  width: 50px;
+  height: 50px;
+  background: rgb(235, 235, 19);
+  border-radius: 50%;
+  border: 1px solid;
+  margin-top: auto;
+  cursor: pointer;
+}
+
+.down_arrow {
+  font-size: 30px;
+  font-weight: 900;
+  color: #fff;
+}

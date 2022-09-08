@@ -1,0 +1,16 @@
+input {
+  margin-left: auto;
+  color: #3d8092;
+}
+
+input.checkbox {
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+  opacity: 0;
+  border-radius: 50%;
+}
+
+input.checkbox:checked {
+  opacity: 1;
+}
